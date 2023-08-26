@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e1254d9bbb3e4158a72fc5a5f71a106, type: 3}
+  m_Name: Level_4
+  m_EditorClassIdentifier: 
+  tutorialText:
+  - "Be careful of the fire spirits on this tree branch! You\u2019re going to need
+    light power to get up to that higher ledge, and then once you have water power,
+    lure the enemies into the river to kill them! Once you\u2019ve done that, go
+    ahead and get that light power back and jump around all parts of the tree to
+    collect all the pinecones and grow all the plants in this level."
