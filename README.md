@@ -1,5 +1,5 @@
 # AltheaAndTheDyingTree
-# Jimmy Liu Script Contributions
+# Jimmy Liu C# Script Contributions
 
 GrowVinesCollision.cs
 
